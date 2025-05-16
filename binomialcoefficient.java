@@ -17,5 +17,9 @@ public class binomialcoefficient{
        System.out.println(binfac(5,2));
        System.out.println(binfac(12,2));
 
-    }
+    
+
 }
+}
+
+
